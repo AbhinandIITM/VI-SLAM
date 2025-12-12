@@ -1,0 +1,7 @@
+#imu0 sensor.yaml (MH_01_easy)
+T_imu0_body: !!opencv-matrix
+   rows: 4 cols: 4 dt: d
+   data: [-0.999909, -0.006767, -0.007419, -0.010935, 0.006776, -0.999888, 0.002112, -0.013831, 0.007461, 0.002112, -0.999870, -0.001964, 0.0, 0.0, 0.0, 1.0]
+noise_density: 1.7e-4
+random_walk: 1.7e-5
+resolution: 1e-5

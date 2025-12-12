@@ -1,0 +1,8 @@
+#cam0 458.654,457.296,367.215,248.375
+T_cam0_body: !!opencv-matrix
+   rows: 4 cols: 4 dt: d
+   data: [0.999975, 0.006752, -0.007431, 0.005363, -0.006782, 0.999955, -0.002088, -0.013630, 0.007468, 0.002109, 0.999838, -0.001948, 0.0, 0.0, 0.0, 1.0]
+intrinsics: [fx: 458.654, fy: 457.296, cx: 367.215, cy: 248.375]
+distortion_model: radial-tangential
+distortion_coefficients: [k1: 0.0, k2: 0.0, p1: 0.0, p2: 0.0]
+resolution: [640, 480]
